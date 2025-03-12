@@ -1,6 +1,6 @@
 
 # Web Text Scraper
-
+![image](image.png)
 ## Overview
 A simple yet powerful web text scraping application built with Flask that allows you to extract textual content from any website. This tool fetches the raw text from a given URL, strips away HTML formatting, and presents the content in a clean, readable format.
 
